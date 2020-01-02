@@ -1,5 +1,4 @@
 require 'sinatra'
-require 'sinatra/reloader'
 
 # 65-90 upper
 # 97-122
